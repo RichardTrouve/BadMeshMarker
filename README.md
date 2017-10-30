@@ -15,3 +15,6 @@ You can just copy/paste the code and run it in the script editor.
 
 **NOT WORKING ON VERSIONS PREVIOUS TO MAYA 2016**
 **THIS IS UNFINISHED CODE, MIGHT BE BUGGY or INNACCURATE, USE IT AT YOUR OWN RISK**
+
+TO-DO : -Isolate marked meshes on the viewport
+        -Display Marked meshes Count
