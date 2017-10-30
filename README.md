@@ -7,8 +7,10 @@ i wrote this tool so i could scan the scene just ones and have a quick overview 
 For now it's very basic, and detects only Ngons, if i find it usefull i will definetly add other features
 
 **INSTRUCTIONS**
-You can just copy/paste the code and run it in the script editor
+You can just copy/paste the code and run it in the script editor.
+
 1 button to mark the  meshes with ngons in the outliner
+
 1 button to reset back the outliner color settings back to defult
 
 **NOT WORKING BEFORE MAYA 2016**
