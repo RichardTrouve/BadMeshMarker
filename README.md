@@ -11,7 +11,7 @@ You can just copy/paste the code and run it in the script editor.
 
 1 button to mark the  meshes with ngons in the outliner
 
-1 button to reset back the outliner color settings back to defult
+1 button to reset the outliner color settings back to default
 
 **NOT WORKING BEFORE MAYA 2016**
 **THIS IS UNFINISHED CODE, MIGHT BE BUGGY or INNACCURATE, USE IT AT YOUR OWN RISK**
