@@ -16,7 +16,7 @@ You can just copy/paste the code and run it in the script editor.
 
 1 button to reset the outliner color settings back to default
 
-**NOT WORKING ON VERSIONS PREVIOUS TO MAYA 2016**
+**NOT tested ON VERSIONS PREVIOUS TO MAYA 2017**
 **THIS IS UNFINISHED CODE, MIGHT BE BUGGY or INNACCURATE, USE IT AT YOUR OWN RISK**
 
 TO-DO : -Isolate marked meshes on the viewport
